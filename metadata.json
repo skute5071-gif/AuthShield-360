@@ -1,0 +1,6 @@
+{
+  "name": "AuthShield 360",
+  "description": "Secure Account Protection and Suspicious Login Detection System - practical cybersecurity monitoring, threat scoring, and defense dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
